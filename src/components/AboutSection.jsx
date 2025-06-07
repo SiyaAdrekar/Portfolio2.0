@@ -43,7 +43,7 @@ export const AboutSection = () =>{
                     <div className="flex justify-center md:justify-end">
                         <div className="relative">
                             <img 
-                                src='public/siaa.png'
+                                src='/siaa.png'
                                 alt="Siya Adrekar - Web Developer & Machine Learning Engineer"
                                 className="w-96 h-96 object-cover object-bottom rounded-2xl shadow-2xl"
                                 style={{ objectPosition: '50% 70%' }}
